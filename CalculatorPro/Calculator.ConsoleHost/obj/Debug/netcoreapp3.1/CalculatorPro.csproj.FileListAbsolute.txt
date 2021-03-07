@@ -1,0 +1,12 @@
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/bin/Debug/netcoreapp3.1/CalculatorPro.deps.json
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/bin/Debug/netcoreapp3.1/CalculatorPro.runtimeconfig.json
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/bin/Debug/netcoreapp3.1/CalculatorPro.runtimeconfig.dev.json
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/bin/Debug/netcoreapp3.1/CalculatorPro.dll
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/bin/Debug/netcoreapp3.1/CalculatorPro.pdb
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/obj/Debug/netcoreapp3.1/CalculatorPro.csprojAssemblyReference.cache
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/obj/Debug/netcoreapp3.1/CalculatorPro.AssemblyInfoInputs.cache
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/obj/Debug/netcoreapp3.1/CalculatorPro.AssemblyInfo.cs
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/obj/Debug/netcoreapp3.1/CalculatorPro.csproj.CoreCompileInputs.cache
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/obj/Debug/netcoreapp3.1/CalculatorPro.dll
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/obj/Debug/netcoreapp3.1/CalculatorPro.pdb
+/Users/darlevy/RiderProjects/Calculator/CalculatorPro/CalculatorPro/obj/Debug/netcoreapp3.1/CalculatorPro.genruntimeconfig.cache
